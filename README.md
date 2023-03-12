@@ -7,6 +7,7 @@ To use this bot, you will need to create a Telegram bot and obtain an API token.
 Once you have obtained an API token, you can clone this repository to your local machine and install the required dependencies using the following command:
 
 `pip install -r requirements.txt`
+
 Next, you have to define an environment variable with the name BOT_TOKEN or replace the line with the API token you obtained from BotFather.
 
 Finally, you can start the bot by running the following command:
